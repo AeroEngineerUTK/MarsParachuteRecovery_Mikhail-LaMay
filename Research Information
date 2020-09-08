@@ -69,10 +69,14 @@ Mars Pathfindes Mission Background
             > The parachute team loads the parachute in a special structure that then applies a heavy weight to the parachute package several times
             > Before placing the parachute into the backshell, the parachute is heated to sterlize it.
             
-       
-       
-       
-       
+> Mars Pathfinder Atmospheric Entry: Trajectory Design and Dispersion Analysis
+    > Enters Martian atmosphere directly from the interplanetary trajectory, with a veloicty of up to 7,350 m/s.      
+    > Entry, Descent, and Landing (EDL) us designed to accommmodate the range of off-nominal entry trajectories due to navigation errors and uncertainties in atmospheric density, entry body and parachute drag profiles, parachute deplotment timing, and landing-site elevation.
+    > The nominal entry conditions and attitude profile are given
+    > Monte Carlo Simulations???
+        > Terminal Descent - Three-DOF (translational)
+        > Entry Phase, Prior to Parachute Deployment - Six-DOF (translational and rotational)
+        
        
        
        
