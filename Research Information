@@ -80,7 +80,24 @@ Mars Pathfindes Mission Background
        
        
        
-        
+Reentry and landing maneuvers can take several forms. If the landing
+occurs on a planet that has an atmosphere, then the drag of the atmosphere will slow down the reentering vehicle. For an elliptical orbit the
+drag will progressively reduce the perigee altitude and the perigee velocity
+on every orbit. Landing at a precise, preplanned location requires a
+particular velocity vector at a predetermined altitude and distance
+from the landing site. The vehicle has to be rotated into the right position
+and orientation, so as to use its heat shield correctly. The precise velocity
+magnitude and direction prior to entering the denser atmosphere are
+critical for minimizing the heat transfer (usually to the vehicle's heat
+shield) and to achieve touchdown at the intended landing site or, in
+the case of ballistic missiles, the intended target. This usually requires a
+relatively minor maneuver (low total impulse). If there is very little or no
+atmosphere (for instance, landing on the moon or Mercury), then a
+reverse thrust has to be applied during descent and touchdown. The
+rocket propulsion system usually has variable thrust to assure a soft
+landing and to compensate for the decrease in vehicle mass as propellant
+is consumed during descent. The lunar landing rocket engine, for example, had a 10 to 1 thrust variation. 
+
         
 
     
