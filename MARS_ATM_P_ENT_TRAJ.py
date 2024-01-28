@@ -32,7 +32,8 @@
 
 **Provides**
 
-* :func: ' ': 
+* :func: 'acceleration': Calculates Acceleration Based on Velocity Data Input
+* :func: 'Force': Calculates Force Based on Probe Mass and Acceleration Data Input
 
 """
 
